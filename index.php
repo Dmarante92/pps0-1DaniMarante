@@ -1,1 +1,1 @@
-<?php echo '<h1>Hola mundo, soy Dani Marante. Punto 17. funcionamiento de push</h1>'; ?>
+<?php echo '<h1>Hola mundo, soy Dani Marante. Punto 18. Modificando el archivo desde github.com</h1>'; ?>
