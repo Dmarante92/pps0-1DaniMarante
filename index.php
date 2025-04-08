@@ -1,1 +1,1 @@
-<?php echo '<h1>Hola mundo, soy Dani Marante. Esto es una práctica para ver como funciona Git</h1>'; ?>
+<?php echo '<h1>Hola mundo, soy Dani Marante. Punto 15 restaurando el archivo</h1>'; ?>
